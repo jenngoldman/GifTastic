@@ -1,0 +1,23 @@
+.button {
+    margin: 5px;
+    background-color: turquoise;
+}
+
+.button:hover {
+    background-color: rgb(172, 172, 172);
+}
+
+form {
+    float: right;
+}
+
+.gif-container {
+    display: inline-block;
+    text-align: center;
+}
+
+.gif {
+    margin: 5px;
+    max-width: 100%;
+    max-height: 150px;
+}
